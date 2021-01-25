@@ -1,3 +1,3 @@
 "use strict";
-var msg = 'app';
+const msg = 'app';
 console.log('Running ', msg);
